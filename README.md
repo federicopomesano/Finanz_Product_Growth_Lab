@@ -5,7 +5,7 @@ Case study di Product & Growth Analytics simulato sul prodotto B2C di **Finanz**
 ---
 
 ## Executive Summary
-Attraverso l'analisi del funnel di acquisizione e attivazione, è stato identificato un punto di drop-off significativo nella fase di First Lesson. È stato strutturato ed eseguito un **A/B Test** per valutare l'impatto di una prima sessione di apprendimento ridotta (da 8 a 3 minuti).
+Ho modellato in Python un dataset con 5000 utenti in un trimestre e relativo tracking plan di eventi (19.396 eventi distribuiti tra App Open, Signup, Onboarding, First Lesson, Activation). Poi ho eseguito una Funnel e Retention Analysis via SQL e condotto un A/B test statistico. Identificando un drop-off nella first lesson, ho testato una versione ridotta (da 8 a 3 minuti) dimostrando un incremento statisticamente significativo della conversione di +7,33% (P-value 0,0363). 
 
 ### Risultati Chiave:
 * Attivazione Totale (Baseline): 28,78% sul totale delle aperture app (da 5.000 a 1.439 utenti attivati).
