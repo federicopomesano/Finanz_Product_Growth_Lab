@@ -1,0 +1,9 @@
+Metric;Control (8 min);Treatment (3 min)
+Sample Size;1000;1000
+Conversions;614;659
+Conversion Rate;61.40%;65.90%
+Absolute Lift;-;+4.50%
+Relative Uplift;-;+7.33%
+P-Value (Once-Tailed);-;0.0182
+P-Value (Two-Tailed);-;0,0363
+Statistically Significant (p < 0.05);-;YES
